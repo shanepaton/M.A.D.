@@ -1,6 +1,8 @@
 # M.A.D.
 The source code for the Mounted Assistant Device or M.A.D.
 
+![M.A.D.](https://i.imgur.com/ptwvlgA.png)
+
 ## Requirements
 ### Hardware:
 - 1x Raspberry Pi
