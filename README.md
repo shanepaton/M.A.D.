@@ -65,4 +65,11 @@ Extract the source code from the zip file then run by using the command:
 ```console
 pi@raspberrypi $ python3 mad.py
 ```
-The software should be running and the screen should be working.
+
+### (Optional) Brewsoft setup
+ - Create a FAT32 formated USB drive with the exact title of "PROGRAM"
+ - Create a "programs" folder on the drive
+ - Put software onto the drive
+ 
+
+Then if you've done everything right you should see the screen come to life and display the M.A.D. interface.
