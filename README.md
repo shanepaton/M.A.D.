@@ -10,7 +10,7 @@ The source code for the Mounted Assistant Device or M.A.D.
 - 4x Push Buttons
 - 1x I2C 1602 Charecter LCD
 - 14x Wires
-- ( Optional ) USB Flash Drive for BrewSoft
+- ( Optional ) USB Flash Drive for custom software
 
 ### Software
 - Python 3.7.3
@@ -66,7 +66,7 @@ Extract the source code from the zip file then run by using the command:
 pi@raspberrypi $ python3 mad.py
 ```
 
-### (Optional) Brewsoft setup
+### (Optional) Custom software setup
  - Create a FAT32 formated USB drive with the exact title of "PROGRAM"
  - Create a "programs" folder on the drive
  - Put software onto the drive
